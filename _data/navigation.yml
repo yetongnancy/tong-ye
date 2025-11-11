@@ -11,6 +11,7 @@ main:
 
   - title: "CV"
     url: /files/CV_TY.pdf
+    new_tab: true
 
   - title: "Research"
     url: /research/
