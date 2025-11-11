@@ -9,9 +9,11 @@
 
 main:
 
+  # - title: "CV"
+  #   url: /files/CV_TY.pdf
+
   - title: "CV"
-    url: /files/CV_TY.pdf
-    new_tab: true
+    url: /cv-json/
 
   - title: "Research"
     url: /research/
@@ -30,9 +32,6 @@ main:
         
   # - title: "Blog Posts"
   #   url: /year-archive/
-    
-  # - title: "CV"
-  #   url: /cv-json/
     
   # - title: "Guide"
   #   url: /markdown/
