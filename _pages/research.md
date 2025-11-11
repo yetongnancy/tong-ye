@@ -12,7 +12,7 @@ redirect_from:
 
 ---
 
-## The Impact of Remote Work on Women's Labor Market Share ([*Job Market Paper*](site.url/files/JMP.pdf))
+## The Impact of Remote Work on Women's Labor Market Share ([*Job Market Paper*](/files/JMP.pdf))
 
 Abstract: This paper examines whether remote work can improve women’s representation in the U.S. labor market. Using data from the Quarterly Workforce Indicators (QWI) and job postings, I estimate the causal effects of changes in remote work share on the female share among new hires and in the workforce. To identify these effects, I employ two strategies: a difference-in-differences (DID) framework augmented with double machine learning (DML), and an instrumental variable (IV) approach. The results show that transitioning jobs from fully on-site to arrangements that include remote working days would raise the female share of new hires by about 10 percentage points and the overall female workforce share by about 6 percentage points. These gains are persistent over time and particularly pronounced in male-dominated industries. The findings highlight remote work as a promising mechanism for advancing gender equity in the labor market and mobilizing greater female labor force participation.
 
