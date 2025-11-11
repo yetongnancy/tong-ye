@@ -21,7 +21,7 @@ Applied Microeconomics, Labor Economics, Urban Economics, Health Economics, Publ
 
 ## Research
 
-**Tong Ye**, ["The Impact of Remote Work on Women’s Labor Market Share." (*Job Market Paper*)](/files/JMP.pdf)
+**Tong Ye**, ["The Impact of Remote Work on Women’s Labor Market Share." (*Job Market Paper*)]({{site.url}}{{site.baseurl}}{% link /files/JMP.pdf})
 
 **Tong Ye**, "The Effects of Automation on Population Mobility." (*Working Paper*) 
 
