@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Welcome to my website!"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +9,7 @@ redirect_from:
 [//]: refer to https://kathrinackermann.github.io/
 [//]: and the source code https://github.com/kathrinackermann/kathrinackermann.github.io/tree/master/_pages
 
-# Welcome to my website!
+[//]: Welcome to my website!
 
 My name is Tong Ye, and I am a PhD candidate in Economics at the University of Illinois-Chicago. I am on the job market for the fall 2025 - spring 2026 recruiting cycle.
 
